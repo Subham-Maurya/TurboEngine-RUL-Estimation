@@ -130,4 +130,4 @@ The dataset contains time-series data with:
 The source code and supporting files for this project are available on [GitHub](https://github.com/Subham-Maurya/TurboEngine-RUL-Estimation).
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [License](LICENSE).
